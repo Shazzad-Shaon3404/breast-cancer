@@ -2,11 +2,12 @@
 
 ## <span style="font-size:16px;">**Overview:**</span>
 <span style="font-size:14px;">
-Early detection of breast cancer significantly improves treatment outcomes and survival rates. Predictive models can help identify individuals who are at higher risk of developing breast cancer, allowing for earlier screening and intervention.
-</span>
-## <span style="font-size:16px;">**Features:**</span>
+Early detection of breast cancer significantly improves treatment outcomes and survival rates. Predictive models can help identify individuals who are at higher risk of developing breast cancer, allowing for earlier screening and intervention </span>
 
-<span style="font-size:14px;">- ALL features analysis
+## <span style="font-size:16px;">**Features of the study:**</span>
+
+<span style="font-size:14px;">
+- ALL features analysis
 - Comparative computational approach for accurate predictions
 - Utilizes machine learning techniques for classification
 - Used numerous ML models oand  meta models
